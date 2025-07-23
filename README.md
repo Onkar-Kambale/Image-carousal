@@ -6,13 +6,13 @@ Welcome to **F1 Cars Showcase** — a stunning and interactive website built usi
 
 ## 🌐 Live Site
 
-
+https://onkar-kambale.github.io/Image-carousal/
 
 ---
 
 ## 🖼️ Screenshot
 
-![F1 Cars Showcase Screenshot](Screenshot 2025-07-23 002918.png)
+![F1 Cars Showcase Screenshot](screenshot.png)
 
 ---
 
